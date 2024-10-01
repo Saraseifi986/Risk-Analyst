@@ -1,1 +1,18 @@
 
+Business Postpaid Mobile Accounts Risk Analysis and Revenue Opportunities (2020-2021)
+This project focuses on analyzing business postpaid mobile accounts to evaluate credit risk, activation rates, and identify revenue opportunities based on data from 2020 to 2021
+. Using Python, Pandas, and visualization tools, the analysis delves into customer activation behavior, credit scores, and account performance across various
+demographics and business channels.
+
+The main objectives of the project are to analyze overall and monthly activation rates, examine how activation rates vary by customer demographics such as
+age group, province, and channel type, and evaluate the distribution of credit risk and its relationship to account activation. The data used includes
+business postpaid mobile applications, credit information for each customer, and target activation rates set by the business for 2020 and 2021.
+
+Key findings include an overall activation rate of 70.06%, with significant variations in activation rates by age group, province, and channel type.
+Additionally, most customers were classified in the "B" credit class, with a median credit score of 741.
+
+The project utilizes Python and Pandas for data manipulation and Matplotlib and Seaborn for data visualization. To reproduce the analysis, 
+clone the repository, install Python and the required libraries, download the dataset, and run the provided Python script or Jupyter notebook.
+
+This analysis helps identify factors influencing customer activation and credit risk, offering valuable insights for business decision-making regarding
+postpaid mobile accounts.
